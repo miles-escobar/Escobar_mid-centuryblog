@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Lato:wght@400;700&display=swap');
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #333;
+  background-color: #cde3f1;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+nav, header, footer {
+  background-color: #cde3f1;
+}
+
+nav {
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: #047F8C;
+  margin: 0 1em;
+  text-decoration: none;
+}
+
+nav img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+header {
+  padding: 2em 0;
+  text-align: center;
+}
+
+header h1 {
+  color: #3a400C;
+  font-weight: 600;
+  font-size: 37px;
+  text-transform: uppercase;
+}
+
+header .subtitle {
+  font-size: 18px;
+  color: #333;
+}
+
+main {
+  padding: 2em;
+}
+
+.content {
+  background-color: #fff;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.content img {
+  width: 75%;
+  height: auto;
+  margin: 1em 0;
+}
+
+.text-content {
+  background-color: #f0f0f0;
+  padding: 2em;
+}
+
+.text-content h2 {
+  color: #3a400C;
+}
+
+.text-content p, .text-content ul, .text-content blockquote {
+  color: #333;
+}
+
+.text-content ul {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+
+footer {
+  background-color:#04ADBF;
+  color:  #333;
+  text-align: center;
+  padding: 2em 0;
+}
+
+.small-img {
+  width: 50%;
+  height: 40%;
+}
+
+.small-img2 {
+  width: 15%;
+  height: 20%;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.dar {
+  color: #047F8C;
+  margin: 0 1em;
+  text-decoration: none;
+}
